@@ -1,4 +1,6 @@
 # Gulimall
 谷粒商城-lwh
-****thsrt
-dxztrkxjjjhnxkltdnhxkltnhxkltndhklx
+****
+gulimall-user用户服务8080
+
+
